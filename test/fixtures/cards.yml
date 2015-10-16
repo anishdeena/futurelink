@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  key: MyString
+  url: MyText
+  card: MyText
+  views: 1
+  tags: 
+
+two:
+  key: MyString
+  url: MyText
+  card: MyText
+  views: 1
+  tags: 

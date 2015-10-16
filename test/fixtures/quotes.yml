@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quotation: MyText
+  film: MyString
+  character: MyString
+  actor: MyString
+  year: 1
+  type: 
+  character_link: MyString
+  film_link: MyString
+  actor_link: MyString
+
+two:
+  quotation: MyText
+  film: MyString
+  character: MyString
+  actor: MyString
+  year: 1
+  type: 
+  character_link: MyString
+  film_link: MyString
+  actor_link: MyString
